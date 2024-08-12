@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Ubuntu", sans-serif;
+}
+.div1{
+    background-color: #778497;
+    justify-content: center;
+    div{
+        text-align: center;
+    }
+    button{
+        margin: 0 auto;
+        border-radius: 50%;
+        padding: 7%;
+        background-color: rgb(35, 60, 202);
+        border-color: transparent;
+    }
+}
+.div2{
+    background-color: #778497;
+    text-align: center;
+    input{
+        width: 50px;   
+    }
+
+}
+.div3{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #778497;
+    text-align: center;
+}
